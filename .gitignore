@@ -1,0 +1,18 @@
+#Archivos generados con node
+/node_modules
+
+#Archivos de log
+logs/
+
+#Archivos de configuración
+configurations.js
+ecosystem.config.js
+
+# Otros archivos y carpetas generados durante el desarrollo
+dist/
+coverage/
+
+#Archivos de entorno
+.env
+.env.production
+.env.development
